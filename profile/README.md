@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center"><b>【 UHalo Pro 】开发和授权仓库 </b> </p>
+<p align="center"><b>【 UHalo PRO 】开发和授权仓库 </b> </p>
 <p align="center"> 社区免费版 【uni-halo】的升级版本，基于 uniapp + Halo2.x API 开发的多端项目，值得一试 </p>
 
 <br /> 
@@ -20,7 +20,7 @@
 	<a href="https://github.com/ialley-workshop-open/uni-halo">Github</a>
 </p> 
 <p align="center">
-	<a href="https://uni-halo.925i.cn/">uni-halo（2.x）</a>
+	<a href="https://uni-halo.925i.cn/">uni-halo（2.x）文档地址</a>
 	<a href="https://gitee.com/ialley-workshop-open/uni-halo">Gitee</a>
 	<a href="https://github.com/ialley-workshop-open/uni-halo">Github</a>
 </p>
